@@ -19,15 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Loops.cpp" />
+    <ClCompile Include="LetsReview.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{E9C805A5-57AF-4617-954E-E0D18DF91978}</ProjectGuid>
+    <ProjectGuid>{D0698A7D-445C-447B-8962-02F36826E5D8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Day6</RootNamespace>
+    <RootNamespace>LetsReview</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Loops</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
